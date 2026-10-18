@@ -1,0 +1,5 @@
+2026-10-18 10:14:02 INFO  [main] Server initialized successfully.
+2026-10-18 10:14:05 WARN  [db_pool] Connection pool reaching maximum capacity (85/100).
+2026-10-18 10:14:12 ERROR [auth_service] Failed database connection to PostgreSQL at 192.168.1.50:5432 - Connection refused.
+2026-10-18 10:14:13 ERROR [auth_service] Retried 3 times. Authentication pipeline failed for user ID 1042.
+2026-10-18 10:14:15 CRITICAL [kernel] Out of Memory: Killed process 4102 (worker_node).
